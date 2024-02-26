@@ -1,0 +1,4 @@
+En este trabajo nuestro objetivo es estudiar un poco de teoría sobre las formas cuadráticas, 
+un concepto esencial en el álgebra lineal y su relación con el análisis de datos, centrándonos en la norma de Mahalanobis. 
+Para lograr esto, se verán algunas definiciones, ejemplos implementados con Python y por último algunos ejemplos de cómo utilizar la norma de Mahalanobis
+para evaluar la similitud entre observaciones y detectar outliers.
